@@ -1,16 +1,19 @@
 html{
-    background-color:floralwhite;
+    background-color:rgb(73, 38, 117);
 }
 div{
-    color: rgb(0, 0, 0);
+    color: rgb(82, 48, 105);
     width: 500px;
-    border: 1px solid white;
+    border: 1px solid rgb(177, 7, 255);
+    
 }
 body{
     width: 500px;
     margin: 0 auto;
-    background-color:white;
+    background-color:rgb(255, 255, 255);
     padding: 20px 20px 20px 20px;
-    border: 5px solid black;
+    border: 5px solid rgb(205, 167, 255);
     text-align: center;
+}
+img{width: 100%;
 }
